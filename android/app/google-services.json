@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "270272884796",
+    "firebase_url": "https://scrum-board-19234.firebaseio.com",
+    "project_id": "scrum-board-19234",
+    "storage_bucket": "scrum-board-19234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270272884796:android:b118e14d699b41466fd339",
+        "android_client_info": {
+          "package_name": "com.luc1fer.mainpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270272884796-f2vudebju1hg6ck7t28un72jc0n1bsfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaicpyHnDyukjqViFZMKqste8IHLnG3t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270272884796-f2vudebju1hg6ck7t28un72jc0n1bsfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
