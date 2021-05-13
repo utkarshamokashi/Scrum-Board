@@ -1,5 +1,5 @@
 # Scrum-Board
-Created By--> 
+An project management application created by--> 
 <br/>Utkarsha Mokashi
 <br/>Aayushi Mehta
 <br/>Radhey Borse
